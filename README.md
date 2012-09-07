@@ -69,7 +69,9 @@ Available mixins for the following CSS properties:
 * .width(@value)
 * .min-width(@value)
 * .max-width(@value)
-* top(@value)
-* left(@value)
-* bottom(@value)
-* right(@value)
+* .top(@value)
+* .left(@value)
+* .bottom(@value)
+* .right(@value)
+
+**@chrRamirez**
