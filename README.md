@@ -2,9 +2,9 @@ remixins for {less}
 -
 ###Automatically convert pixel measures into rem units.
 
-remixins is a collection of {less} mixins that helps you start using rem units without coding pixels fallbacks on every rule. Code your CSS using pixels. remixins will automatically convert them to rem units.
+remixins is a collection of **{less}** mixins that helps you start using rem units without coding pixels fallbacks on every rule. Code your CSS using pixels. remixins will automatically convert them to rem units.
 
-remixins includes {less} mixins for most popular properties where rem is used as a measure unit.
+remixins includes **{less}** mixins for most popular properties where rem is used as a measure unit.
 
 Available mixins for the following CSS properties:  
  * font-size, line-height and text-indent.  
@@ -48,30 +48,30 @@ Available mixins for the following CSS properties:
 ```
 
 ### Included mixins
-* .font-size(@value)
-* .line-height(@value)
-* .text-indent(@value)
-* .margin(@value)
-* .margin(@vertical, @horizontal)
-* .margin-top(@value)
-* .margin-left(@value)
-* .margin-bottom(@value)
-* .margin-left(@value)
-* .padding(@value)
-* .padding(@vertical, @horizontal)
-* .padding-top(@value)
-* .padding-left(@value)
-* .padding-bottom(@value)
-* .padding-left(@value)
-* .height(@value)
-* .min-height(@value)
-* .max-height(@value)
-* .width(@value)
-* .min-width(@value)
-* .max-width(@value)
-* .top(@value)
-* .left(@value)
-* .bottom(@value)
-* .right(@value)
+* `.font-size(@value)`
+* `.line-height(@value)`
+* `.text-indent(@value)`
+* `.margin(@value)`
+* `.margin(@vertical, @horizontal)`
+* `.margin-top(@value)`
+* `.margin-left(@value)`
+* `.margin-bottom(@value)`
+* `.margin-left(@value)`
+* `.padding(@value)`
+* `.padding(@vertical, @horizontal)`
+* `.padding-top(@value)`
+* `.padding-left(@value)`
+* `.padding-bottom(@value)`
+* `.padding-left(@value)`
+* `.height(@value)`
+* `.min-height(@value)`
+* `.max-height(@value)`
+* `.width(@value)`
+* `.min-width(@value)`
+* `.max-width(@value)`
+* `.top(@value)`
+* `.left(@value)`
+* `.bottom(@value)`
+* `.right(@value)`
 
 **@chrRamirez**
