@@ -1,5 +1,5 @@
 // ===== REM UNIT MIXINS ====
-@base-font-size-px: 10; // root's font size. @base-font-size-px MUST ME AN INTEGER.
+@base-font-size-px: 10; // root's font size. @base-font-size-px MUST BE AN INTEGER.
 
 
 @pxtorem-js-function: ~`pxtorem = function(px){ if (typeof rmxsBaseFontSize == 'undefined')  rmxsBaseFontSize = @{base-font-size-px}; return (parseInt(px.replace(/(^\d+)(.+$)/i,'$1')) / rmxsBaseFontSize + 'rem') }`;
