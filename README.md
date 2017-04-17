@@ -1,6 +1,6 @@
 remixins for {less}
 -
-###Automatically convert pixel measures into rem units.
+### Automatically convert pixel measures into rem units.
 
 remixins is a collection of **{less}** mixins that helps you start using rem units without coding pixels fallbacks on every rule. Code your CSS using pixels. remixins will automatically convert them to rem units.
 
